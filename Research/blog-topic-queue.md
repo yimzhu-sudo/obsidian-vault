@@ -4,9 +4,9 @@ Apex weekly brief topics. The pipeline takes the FIRST unticked line, writes it,
 then ticks it. Reorder / add / edit freely (synced from Obsidian).
 Format: `- [ ] Pillar: the angle`.
 
-- [ ] Workforce: the worker-screening clearance backlog and what it costs provider rosters
-- [ ] Pricing model: how providers are restructuring services under the latest price guide
-- [ ] Compliance & risk: the Commission's tougher enforcement posture and board exposure
+- [x] 2026-06-14 · Workforce: the worker-screening clearance backlog and what it costs provider rosters  (insights/the-clearance-backlog-is-quietly-hollowing-out-provider-rosters)
+- [x] 2026-06-14 · Pricing model: how providers are restructuring services under the latest price guide  (insights/providers-restructure-services-as-the-latest-price-guide-bites)
+- [x] 2026-06-14 · Compliance & risk: the Commission's tougher enforcement posture and board exposure  (insights/the-commission-is-enforcing-harder-boards-are-now-exposed)
 - [ ] AI & automation: which compliance-reporting workflows actually survive the regulator
 - [ ] Client experience: rebuilding intake and matching for participant choice at scale
 - [ ] Cyber & data governance: care providers as custodians of the sector's most sensitive data
